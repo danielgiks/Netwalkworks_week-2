@@ -38,4 +38,3 @@ I look forward to gaining more practical experience and developing my skills thr
 
 Special thanks to Networkwalks for the continued training and mentorship.
 
- Waqas Karim (CCIE) #Networkwalks #BatchB084 
